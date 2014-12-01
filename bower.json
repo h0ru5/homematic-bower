@@ -1,6 +1,6 @@
 {
 	"name": "homematic",
-	"version": "0.0.11",
+	"version": "0.0.12",
 	"homepage": "https://github.com/h0ru5/homematic",
 	"authors": [
 		"h0ru5 <johannes.hund@gmail.com>"
@@ -17,7 +17,7 @@
 	"license": "MIT",
 	"ignore": [
 		"**/*",
-		"!dist/bower/homematic.js"
+		"!dist/bower/*"
 	],
 	"repository": {
 		"type": "git",
